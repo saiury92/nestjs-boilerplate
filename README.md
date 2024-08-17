@@ -30,6 +30,8 @@ NestJS REST API boilerplate
 
 - [x] Config Service ([@nestjs/config](https://www.npmjs.com/package/@nestjs/config))
 
+- [x] Husky & Commitlint
+
 ## Installation
 
 ```bash
