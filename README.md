@@ -32,6 +32,8 @@ NestJS REST API boilerplate
 
 - [x] Husky & Commitlint
 
+- [x] Swagger ([@nestjs/swagger](https://www.npmjs.com/package/@nestjs/swagger))
+
 ## Installation
 
 ```bash
