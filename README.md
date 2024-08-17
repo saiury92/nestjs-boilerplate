@@ -28,6 +28,8 @@ NestJS REST API boilerplate
 
 ## Features
 
+- [x] Config Service ([@nestjs/config](https://www.npmjs.com/package/@nestjs/config))
+
 ## Installation
 
 ```bash
